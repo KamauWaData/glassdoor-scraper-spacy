@@ -1,4 +1,4 @@
 glassdoor-scraper
 =================
 
-Scrapin' salaries with Scrapy
+This glassdoor scraper scrapes for jobs listings in python and data science sectors. We use spacy library to by-pass bot restrictions.
